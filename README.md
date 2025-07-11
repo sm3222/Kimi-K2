@@ -25,6 +25,13 @@
 <b>📰&nbsp;&nbsp;<a href="https://moonshotai.github.io/Kimi-K2/">Tech Blog</a></b> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <b>📄&nbsp;&nbsp;Paper Link (comming soon)</b>
 </p>
 
+
+<div align="center">
+  <picture>
+      <img src="figures/banner.png" width="80%" alt="Evaluation Results">
+  </picture>
+</div>
+
 ## 1. Model Introduction
 
 Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 billion activated parameters and 1 trillion total parameters. Trained with the Muon optimizer, Kimi K2 achieves exceptional performance across frontier knowledge, reasoning, and coding tasks while being meticulously optimized for agentic capabilities.
