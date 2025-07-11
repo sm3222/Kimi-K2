@@ -177,7 +177,7 @@ Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 bi
 <td align="center">—</td>
 <td align="center">35.5</td>
 <td align="center"><strong>43.2</strong></td>
-<td align="center">8.30</td>
+<td align="center">8.3</td>
 <td align="center">—</td>
 </tr>
 
@@ -186,7 +186,7 @@ Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 bi
 <td align="center">Acc</td>
 <td align="center"><ins><strong>25.0</strong> </ins></td>
 <td align="center">16.3</td>
-<td align="center">6.60</td>
+<td align="center">6.6</td>
 <td align="center">—</td>
 <td align="center">—</td>
 <td align="center"><strong>30.3</strong></td>
@@ -293,7 +293,7 @@ Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 bi
 <td align="center">27.5</td>
 <td align="center">11.9</td>
 <td align="center">15.9</td>
-<td align="center">15.8</td>
+<td align="center">15.9</td>
 <td align="center">19.4</td>
 <td align="center">34.7</td>
 </tr>
@@ -325,7 +325,7 @@ Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 bi
 <td align="center">Acc</td>
 <td align="center"><strong>89.0</strong></td>
 <td align="center">84.0</td>
-<td align="center">37.7</td>
+<td align="center">37.7<sup>*</sup></td>
 <td align="center">73.7</td>
 <td align="center">59.3</td>
 <td align="center">58.5</td>
