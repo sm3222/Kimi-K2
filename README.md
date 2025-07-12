@@ -652,7 +652,7 @@ Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 bi
 > [!Note]
 > You can access Kimi K2's API on https://platform.moonshot.ai , we provide OpenAI/Anthropic-compatible API for you.
 >
-> The Anthropic-compatible API maps temperature by `real_temperature = request_temperature * 0.6` for better compatible with existing applications.
+> The Anthropic-compatible API maps temperature by `real_temperature = request_temperature * 0.6` for better compatiblity with existing applications.
 
 Our model checkpoints are stored in the block-fp8 format, you can find it on [Huggingface](https://huggingface.co/moonshotai/Kimi-K2-Instruct).
 
