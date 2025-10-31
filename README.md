@@ -36,7 +36,7 @@ Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 bi
 
 ### Model Variants
 - **Kimi-K2-Base**: The foundation model, a strong start for researchers and builders who want full control for fine-tuning and custom solutions.
-- **Kimi-K2-Instruct**: The post-trained model best for drop-in, general-purpose chat and agentic experiences. It is a reflex-grade model without long thinking.
+- **Kimi-K2-Instruct**: The post-trained model, best for drop-in, general-purpose chat and agentic experiences. It is a reflex-grade model without long thinking.
 
 <div align="center">
   <picture>
@@ -650,7 +650,7 @@ Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 bi
 
 ## 4. Deployment
 > [!Note]
-> You can access Kimi K2's API on https://platform.moonshot.ai , we provide OpenAI/Anthropic-compatible API for you.
+> You can access Kimi K2's API on https://platform.moonshot.ai , we provide an OpenAI/Anthropic-compatible API for you.
 >
 > The Anthropic-compatible API maps temperature by `real_temperature = request_temperature * 0.6` for better compatiblity with existing applications.
 
@@ -691,7 +691,7 @@ def simple_chat(client: OpenAI, model_name: str):
 
 > [!NOTE]
 > The recommended temperature for Kimi-K2-Instruct is `temperature = 0.6`.
-> If no special instructions are required, the system prompt above is a good default.
+> If no special instructions are required, the system prompt is a good default.
 
 ---
 
