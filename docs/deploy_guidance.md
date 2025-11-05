@@ -5,6 +5,7 @@
 
 
 ## vLLM Deployment
+vLLM version v0.10.0rc1 or later is required.
 
 The smallest deployment unit for Kimi-K2 FP8 weights with 128k seqlen on mainstream H200 or H20 platform is a cluster with 16 GPUs with either Tensor Parallel (TP) or "data parallel + expert parallel" (DP+EP).  
 Running parameters for this environment are provided below. You may scale up to more nodes and increase expert-parallelism to enlarge the inference batch size and overall throughput.
